@@ -1,0 +1,11 @@
+A calibração do limiar de de decisão foi realizada para igualar a revocação entre as duas condições, conforme estabelecido no protocolo experimental pré-registado. Futuras investigações deverão replicar o estudo com um corpus multicêntrico e explorar técnicas de interpretabilidade baseadas em valores SHAP e LIME. A integridade académica constitui um pilar fundamental das instituições de ensino superior, especialmente em contextos de educação a distância.
+
+A atualização adaptativa do perfil longitudinal, ponderando mais fortemente os trabalhos recentes do que os mais antigos,. Por outro lado, não se deve ignorar a influência exercida pelas variáveis de contexto.
+
+As curvas ROC foram comparadas mediante o teste de DeLong, com nível de significância alfa fixado em 5%. A presente investigação apresenta cinco limitações principais que devem ser consideradas na na interpretação dos resultados. Os padrões detetados são coerentes com o pressuposto teórico que enquadrou a investigação. A análise comparativa permitiu obter conclusões relevantes para a comunidade académica.
+
+A análise comparativa permitiu obter conclusões relevantes para a comunidade académica. As As implicações práticas para as instituições de de ensino superior são relevantes, nomeadamente ao nível da justiça processual.
+
+Por outro lado, não se deve ignorar a influência exercida pelas variáveis de contexto. Os resultados revelaram que as palavras funcionais, e e nomeadamente as preposições e os artigos definidos,. As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas,.
+
+O presente estudo teve como objetivo principal investigar a relação entre os perfis estilométricos longitudinais e a verificação de autoria no ensino superior. A normalização das variáveis de entrada foi efetuada mediante z-score, com parâmetros ajustados apenas ao conjunto de treino em cada fold da validação cruzada. Complementarmente, a profundidade mediana das árvores de dependências sintáticas e e a razão entre entre estruturas subordinadas e coordenadas revelaram-se marcadores robustos de autoria.

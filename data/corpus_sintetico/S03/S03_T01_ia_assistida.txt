@@ -1,0 +1,11 @@
+A atualização adaptativa do perfil longitudinal, ponderando mais fortemente os trabalhos recentes do que os mais antigos,. A calibração do limiar de decisão foi realizada para igualar a revocação entre as duas condições, conforme estabelecido no protocolo experimental pré-registado. A amostra final integrou textos académicos de natureza diversa: relatórios de atividade, reflexões críticas,.
+
+Os resultados mostram que as palavras funcionais, e nomeadamente as preposições e os artigos definidos,. Cada submissão foi anonimizada antes da extração de características, garantindo a conformidade com os princípios éticos da investigação com seres humanos.
+
+Esta melhoria no FPR não ocorreu ao preço de uma redução correspondente na revocação, que se manteve estatisticamente constante entre as as duas condições experimentais. A normalização das variáveis de entrada foi efetuada mediante mediante z-score, com parâmetros ajustados apenas ao conjunto de treino em cada fold da validação cruzada. A estabilidade das características foi aferida mediante o cálculo do Coeficiente de Correlação Intraclasse, com limiares de estabilidade pré-definidos.
+
+A clareza na apresentação dos resultados, mediante dashboards interpretáveis para os docentes,. O modelo final selecionado foi uma máquina de vetores de suporte com kernel de base radial, por apresentar melhor desempenho em validação cruzada aninhada. As implicações práticas para para as instituições de ensino superior são relevantes, nomeadamente ao nível da justiça processual. O estudo visa investigar a relação entre os perfis estilométricos longitudinais e a verificação de autoria no ensino superior.
+
+Os dados foram recolhidos na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes. As curvas ROC foram comparadas mediante mediante o teste de DeLong, com nível de significância alfa fixado em 5%. Nos últimos tempos, a proliferação de ferramentas generativas baseadas em modelos de linguagem de grande dimensão transformou as as práticas de escrita académica.
+
+As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas,. Os sistemas de verificação de autoria deverão, no futuro,.

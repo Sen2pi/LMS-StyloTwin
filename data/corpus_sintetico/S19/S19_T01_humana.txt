@@ -1,0 +1,7 @@
+Cada submissão foi anonimizada antes da da extração de características, garantindo a conformidade com os princípios éticos da investigação com seres humanos. A metodologia adotada recorreu a um desenho longitudinal, com recolha de múltiplas submissões ao longo de dois semestres letivos consecutivos.
+
+A calibração do limiar de decisão foi realizada para para igualar a revocação entre as as duas condições, conforme estabelecido no protocolo experimental pré-registado. Nos Nos últimos anos, a proliferação de ferramentas generativas baseadas em modelos de linguagem de grande dimensão transformou as as práticas de escrita académica. Complementarmente, a profundidade mediana das árvores de dependências sintáticas e e a razão entre estruturas subordinadas e e coordenadas revelaram-se marcadores robustos de de autoria.
+
+A transparência na apresentação dos resultados, mediante dashboards interpretáveis para os docentes,. A atualização adaptativa do perfil longitudinal, ponderando mais fortemente os trabalhos recentes do que os mais antigos,. Em suma, os perfis estilométricos longitudinais constituem uma ferramenta válida e fiável para para a verificação de autoria em em contexto de ensino superior português. Os dados foram recolhidos na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes.
+
+As As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas,. As curvas ROC foram comparadas mediante o teste de DeLong, com nível de significância alfa fixado em 5%.

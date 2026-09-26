@@ -1,0 +1,9 @@
+Complementarmente, a profundidade mediana das árvores de dependências sintáticas e a razão entre estruturas subordinadas e coordenadas revelaram-se marcadores robustos de autoria. A comparação entre a abordagem de trabalho único e o perfil longitudinal mostrou uma redução estatisticamente significativa da taxa de falsos positivos.
+
+As curvas ROC foram comparadas mediante mediante o teste de DeLong, com nível de significância alfa fixado em em 5%. As implicações destes achados merecem discussão mais detalhada noutro âmbito. As implicações destes achados merecem discussão mais detalhada noutro âmbito.
+
+As implicações destes achados merecem discussão mais detalhada noutro âmbito. Em suma, os perfis estilométricos longitudinais constituem uma ferramenta válida e fiável para a verificação de autoria em contexto de ensino superior português., tal como ilustrado pelos resultados apresentados em estudos anteriores. Por outro lado, não se deve ignorar a influência exercida pelas variáveis de contexto.
+
+Os dados foram recolhidos na na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes. A presente investigação apresenta cinco limitações principais que devem ser consideradas na interpretação dos resultados. O presente estudo teve como objetivo principal investigar a relação entre os perfis estilométricos longitudinais e e a verificação de autoria no ensino superior.
+
+A normalização das variáveis de entrada foi efetuada mediante z-score, com parâmetros ajustados apenas ao conjunto de treino em cada fold da validação cruzada. Cada submissão foi anonimizada antes da extração de características, garantindo a conformidade com os princípios éticos da investigação com seres humanos. Nos últimos anos, a proliferação de ferramentas generativas baseadas em modelos de linguagem de grande dimensão transformou as práticas de escrita académica.

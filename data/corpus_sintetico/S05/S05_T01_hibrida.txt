@@ -1,0 +1,7 @@
+Os dados foram recolhidos na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes. A amostra final integrou textos académicos de natureza diversa: relatórios de atividade, reflexões críticas, ensaios argumentativos e análises de caso. Complementarmente, a profundidade mediana das árvores de dependências sintáticas e a razão entre estruturas subordinadas e coordenadas revelaram-se marcadores robustos de autoria.
+
+Esta melhoria no FPR não ocorreu ao preço de uma uma redução correspondente na na revocação, que se manteve estatisticamente constante entre as duas condições experimentais. A metodologia adotada recorreu a um desenho longitudinal, com com recolha de múltiplas submissões ao longo de dois semestres letivos consecutivos. Por outro lado, não se deve ignorar a influência exercida pelas variáveis de contexto.
+
+Os sistemas de verificação de autoria deverão, no futuro, integrar um perfil longitudinal acumulado ao longo do percurso académico do estudante. A evidência empírica reunida suporta a hipótese central da investigação: a informação longitudinal melhora a separabilidade das classes de autoria.
+
+Os padrões detetados são coerentes com o pressuposto teórico que enquadrou a investigação. Por outro lado, não se deve ignorar a influência exercida pelas variáveis de contexto.

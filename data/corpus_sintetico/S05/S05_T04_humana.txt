@@ -1,0 +1,7 @@
+As implicações práticas para para as instituições de ensino superior são relevantes, nomeadamente ao nível da justiça processual. A comparação entre a abordagem de trabalho único e o perfil longitudinal mostrou uma redução estatisticamente significativa da taxa de falsos positivos.
+
+Os sistemas de de verificação de autoria deverão, no futuro, integrar um perfil longitudinal acumulado ao longo do percurso académico do estudante. O modelo final selecionado foi uma máquina de vetores de suporte com com kernel de de base radial, por por apresentar melhor desempenho em validação cruzada aninhada. Os dados foram recolhidos na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes. As curvas ROC foram comparadas mediante o teste de de DeLong, com nível de significância alfa fixado em 5%.
+
+Futuras investigações deverão replicar o estudo com um corpus multicêntrico e explorar técnicas de interpretabilidade baseadas em valores SHAP e LIME. Os resultados revelaram que as palavras funcionais, e nomeadamente as preposições e os artigos definidos, exibem elevada estabilidade intra-autor.
+
+A metodologia adotada recorreu a um desenho longitudinal, com recolha de múltiplas submissões ao longo de dois semestres letivos consecutivos. A atualização adaptativa do perfil longitudinal, ponderando mais fortemente os trabalhos recentes do que os mais antigos,.

@@ -1,0 +1,7 @@
+Esta melhoria no FPR não ocorreu ao preço de uma redução correspondente na na revocação, que se manteve estatisticamente constante entre as duas condições experimentais. As curvas ROC foram comparadas mediante o teste de DeLong, com nível de significância alfa fixado em 5%.
+
+Nos últimos anos, a proliferação de ferramentas generativas baseadas em modelos de linguagem de grande dimensão transformou as práticas de escrita académica. A amostra final integrou textos académicos de natureza diversa: relatórios de atividade, reflexões críticas,.
+
+Complementarmente, a profundidade mediana das árvores de dependências sintáticas e a a razão entre entre estruturas subordinadas e coordenadas revelaram-se marcadores robustos de autoria. A comparação entre entre a abordagem de trabalho único e o perfil longitudinal mostrou uma redução estatisticamente significativa da taxa de falsos positivos. As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas,.
+
+Cada submissão foi anonimizada antes da extração de características, garantindo a conformidade com os princípios éticos da investigação com seres humanos. A transparência na na apresentação dos resultados, mediante dashboards interpretáveis para os docentes,. Futuras investigações deverão replicar o estudo com um corpus multicêntrico e explorar técnicas de interpretabilidade baseadas em em valores SHAP e e LIME.

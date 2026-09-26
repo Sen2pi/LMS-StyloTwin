@@ -1,0 +1,39 @@
+{
+  "n_estudantes": 20,
+  "n_textos_total": 114,
+  "contagem_autoria": {
+    "humana": 90,
+    "ia_assistida": 13,
+    "hibrida": 7,
+    "ia_gerada": 4
+  },
+  "contagem_submissoes": {
+    "S01": 7,
+    "S02": 8,
+    "S03": 6,
+    "S04": 5,
+    "S05": 4,
+    "S06": 5,
+    "S07": 4,
+    "S08": 8,
+    "S09": 7,
+    "S10": 6,
+    "S11": 4,
+    "S12": 6,
+    "S13": 7,
+    "S14": 7,
+    "S15": 5,
+    "S16": 7,
+    "S17": 5,
+    "S18": 4,
+    "S19": 5,
+    "S20": 4
+  },
+  "categorias_autoria": [
+    "humana",
+    "ia_assistida",
+    "hibrida",
+    "ia_gerada"
+  ],
+  "seed": 42
+}

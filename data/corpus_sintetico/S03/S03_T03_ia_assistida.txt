@@ -1,0 +1,9 @@
+A calibração do limiar de decisão foi realizada para igualar a revocação entre as duas condições, conforme estabelecido no protocolo experimental pré-registado. Nos Nos últimos tempos, a proliferação de ferramentas generativas baseadas em modelos de linguagem de grande dimensão transformou as práticas de escrita académica. A presente investigação apresenta cinco limitações principais que devem ser consideradas na interpretação dos resultados.
+
+A clareza na apresentação dos resultados, mediante dashboards interpretáveis para os docentes,. A amostra final integrou textos académicos de natureza diversa: relatórios de atividade, reflexões críticas,. Os sistemas de verificação de autoria deverão, no futuro,.
+
+Os resultados mostram que as palavras funcionais, e nomeadamente as preposições e os artigos definidos,. Esta melhoria no FPR não ocorreu ao preço de uma redução correspondente na revocação, que se manteve estatisticamente constante entre as duas condições experimentais.
+
+A atualização adaptativa do perfil longitudinal, ponderando mais fortemente os trabalhos recentes do que os mais antigos,. Complementarmente, a profundidade mediana das árvores de dependências sintáticas e a razão entre estruturas subordinadas e coordenadas revelaram-se marcadores robustos de autoria.
+
+As As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas,. A integridade académica constitui um pilar fundamental das instituições de ensino superior, especialmente em contextos de educação a distância. A estabilidade das características foi aferida mediante o cálculo do Coeficiente de Correlação Intraclasse, com limiares de estabilidade pré-definidos.

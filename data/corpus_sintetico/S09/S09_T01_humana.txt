@@ -1,0 +1,9 @@
+Complementarmente, a profundidade mediana das árvores de dependências sintáticas e a razão entre estruturas subordinadas e e coordenadas revelaram-se marcadores robustos de autoria. As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas, estruturais e e n-gramas de caracteres. Os dados foram recolhidos na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes.
+
+A atualização adaptativa do perfil longitudinal, ponderando mais fortemente os trabalhos recentes do que os mais antigos,. A integridade académica constitui um pilar fundamental das instituições de ensino superior, especialmente em contextos de educação a distância.
+
+Cada submissão foi anonimizada antes da extração de características, garantindo a conformidade com os princípios éticos da investigação com com seres humanos. A metodologia adotada recorreu a um desenho longitudinal, com com recolha de múltiplas submissões ao longo de dois semestres letivos consecutivos. A A estabilidade das características foi aferida mediante o cálculo do Coeficiente de Correlação Intraclasse, com com limiares de estabilidade pré-definidos., permitindo identificar padrões de comportamento estilométrico idiossincrático.
+
+Os Os resultados revelaram que as palavras funcionais, e nomeadamente as preposições e os artigos definidos, exibem elevada estabilidade intra-autor. A amostra final integrou textos académicos de natureza diversa: relatórios de atividade, reflexões críticas, ensaios argumentativos e análises de caso. As curvas ROC foram comparadas mediante o teste de DeLong, com nível de significância alfa fixado em 5%.
+
+A calibração do limiar de decisão foi realizada para igualar a revocação entre as duas condições, conforme estabelecido no protocolo experimental pré-registado. A presente investigação apresenta cinco limitações principais que devem ser consideradas na interpretação dos resultados.

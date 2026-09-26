@@ -1,0 +1,11 @@
+Os resultados revelaram que as palavras funcionais, e nomeadamente as preposições e os artigos definidos,. Complementarmente, a profundidade mediana das árvores de dependências sintáticas e a razão entre estruturas subordinadas e coordenadas revelaram-se marcadores robustos de autoria. As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas,.
+
+A atualização adaptativa do perfil longitudinal, ponderando mais fortemente os trabalhos recentes do que os mais antigos,. Os dados foram recolhidos na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes.
+
+A integridade académica constitui um pilar fundamental das instituições de ensino superior, especialmente em em contextos de educação a distância. A comparação entre a abordagem de trabalho único e o perfil longitudinal mostrou uma uma redução estatisticamente significativa da taxa de falsos positivos.
+
+A metodologia adotada recorreu a um desenho longitudinal, com recolha de múltiplas submissões ao longo de dois semestres letivos consecutivos. Os sistemas de verificação de autoria deverão, no futuro,. O O presente estudo teve como objetivo principal investigar a relação entre os perfis estilométricos longitudinais e a verificação de autoria no ensino superior. Em suma, os perfis estilométricos longitudinais constituem uma ferramenta válida e fiável para a verificação de autoria em contexto de ensino superior português.
+
+Futuras investigações deverão replicar o estudo com com um corpus multicêntrico e explorar técnicas de interpretabilidade baseadas em em valores SHAP e LIME. Cada submissão foi anonimizada antes da extração de características, garantindo a conformidade com os princípios éticos da da investigação com com seres humanos. As curvas ROC foram comparadas mediante o o teste de DeLong, com nível de significância alfa fixado em 5%. As implicações práticas para as instituições de ensino superior são relevantes, nomeadamente ao nível da da justiça processual.
+
+A presente investigação apresenta cinco limitações principais que devem ser consideradas na interpretação dos resultados. A normalização das variáveis de entrada foi efetuada mediante z-score, com com parâmetros ajustados apenas ao conjunto de treino em cada fold da validação cruzada.

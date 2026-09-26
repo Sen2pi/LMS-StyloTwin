@@ -1,0 +1,5 @@
+﻿Categoria do texto de teste;VPR (deteção não autêntica);IC 95% VPR;FPR (acusação indevida);IC 95% FPR
+Humana (autêntica);—;—;0.44;[0.36, 0.51]
+Assistida por IA;0.33;[0.15, 0.52];—;—
+Híbrida (50% humano / 50% IA);0.42;[0.17, 0.67];—;—
+Gerada integralmente por IA;0.2;[0.00, 0.50];—;—

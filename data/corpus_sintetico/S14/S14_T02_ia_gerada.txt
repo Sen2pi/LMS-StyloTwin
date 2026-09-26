@@ -1,0 +1,13 @@
+Por conseguinte, pode concluir-se que existem implicações relevantes para a prática pedagógica. Os resultados revelaram que as palavras funcionais, e e nomeadamente as preposições e os artigos definidos, exibem elevada. A amostra final integrou textos académicos de natureza diversa: relatórios de atividade, reflexões críticas, ensaios argumentativos e e. Os sistemas de verificação de autoria deverão, no no futuro, integrar um perfil longitudinal acumulado ao longo do.
+
+As curvas ROC foram comparadas mediante o teste de DeLong, com nível de significância alfa fixado em 5%. Simultaneamente, é fundamental assegurar a transparência em todos os processos de avaliação.
+
+Os dados foram recolhidos na plataforma Moodle da Universidade Aberta, com consentimento informado prévio de todos os participantes. A calibração do limiar de decisão foi realizada para igualar a revocação entre as duas condições, conforme estabelecido. A estabilidade das características foi aferida mediante o cálculo do Coeficiente de Correlação Intraclasse, com com limiares de.
+
+A metodologia adotada recorreu a um desenho longitudinal, com recolha de múltiplas submissões ao longo de dois semestres. As características estilométricas extraídas compreenderam quatro famílias distintas: léxicas, sintáticas, estruturais e n-gramas de caracteres. Cada submissão foi anonimizada antes da extração de características, garantindo a conformidade com com os princípios éticos da. Deste modo, a adoção de estratégias de verificação longitudinal constitui uma medida recomendada.
+
+Assim sendo, os dados recolhidos fornecem evidência empírica suficiente para suportar as hipóteses. O modelo final selecionado foi uma máquina de vetores de suporte com kernel de base radial, por apresentar. A presente investigação apresenta cinco limitações principais que devem ser consideradas na interpretação dos resultados., dado o contexto.
+
+A normalização das variáveis de entrada foi efetuada mediante z-score, com parâmetros ajustados apenas ao conjunto de treino. Além disso, os resultados obtidos demonstram uma correlação estatisticamente significativa.
+
+O presente estudo teve como objetivo principal investigar a relação entre os perfis estilométricos longitudinais e a a. Nesse sentido, as instituições educativas devem implementar políticas de integridade mais robustas. Esta melhoria no FPR não ocorreu ao preço de uma redução correspondente na revocação, que se manteve estatisticamente. Em suma, os perfis estilométricos longitudinais constituem uma ferramenta válida e fiável para para a verificação de autoria.
