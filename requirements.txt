@@ -1,0 +1,26 @@
+# === Dependências para o Código do Artigo Científico: Perfis Estilométricos Longitudinais ===
+# Instalação: pip install -r requirements.txt
+# Nota: stanza requer download do modelo de PT: python -c "import stanza; stanza.download('pt')"
+#       nltk requer download dos corpora: python -c "import nltk; nltk.download(['punkt','stopwords','punkt_tab','rslp'])"
+
+numpy>=1.26
+pandas>=2.2
+scipy>=1.13
+scikit-learn>=1.5
+
+# Estatística & ICC
+pingouin>=0.5.4
+
+# Processamento de Linguagem Natural (Português Europeu)
+stanza>=1.8.2
+nltk>=3.8.1
+
+# Visualização (Figuras 1 e 2 do artigo)
+matplotlib>=3.9
+seaborn>=0.13
+ptitprince>=0.2.7  # opcional para gráficos raincloud
+
+# Outros utilitários
+tqdm>=4.66
+joblib>=1.4
+openpyxl>=3.1
