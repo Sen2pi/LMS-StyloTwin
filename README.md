@@ -2,7 +2,7 @@
 
 > Repositório oficial do código do artigo científico submetido à *Revista de Metodologias de Investigação em Tecnologias da Educação* — **«Perfis estilométricos longitudinais para verificação de autoria de textos académicos no ensino superior a distância»** (Universidade Aberta, 2026).
 >
-> **Autores:** Driss Karim <sup>[1]</sup> & Miguel Santos <sup>[1,2]</sup>
+> **Autores:** Karim Hussen Patatas Hassam dos Santos <sup>[1]</sup>
 > <sup>[1]</sup> Universidade Aberta (UAb) · <sup>[2]</sup> Laboratório de Investigação em Ciência de Dados e Educação
 
 <p align="center">
@@ -195,8 +195,7 @@ Outras bibliografias relevantes:
 
 | Nome | Instituição | Email |
 |---|---|---|
-| **Driss Karim** | Universidade Aberta (UAb) | driss.karim [at] uab.pt |
-| **Miguel Santos** | Universidade Aberta (UAb) / Lab. Ciência Dados & Educação | miguel.santos [at] uab.pt |
+| ** Karim Hussen Patatas Hassam dos Santos** | Universidade Aberta (UAb) | dr.karim.patatas@gmail.com [at] uab.pt |
 
 > ⚠️ Dados de estudantes reais da Universidade Aberta **não estão incluídos** neste repositório, de acordo com o RGPD e a política de privacidade da UAb. Está incluído um gerador de corpus sintético estatisticamente equivalente.
 
